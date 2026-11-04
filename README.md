@@ -10,19 +10,21 @@
 
 ## 📸 Latihan Mandiri
 
-### 1. LatihanPertama nomor urut barang. Gunakan for untuk menampilkan “Barang ke-1” sampai “Barang ke-10”. Setelah berhasil, ubah program agar menampilkan nomor dari 10 turun ke 1.
+### 1. Latihan Pertama nomor urut barang. Gunakan for untuk menampilkan “Barang ke-1” sampai “Barang ke-10”. Setelah berhasil, ubah program agar menampilkan nomor dari 10 turun ke 1.
 
 ![OutputLatihanPertama](PerulangandanPenggunaanMethod/screenshots/Latihan1.png)
 ![OutputLatihanPertama](PerulangandanPenggunaanMethod/screenshots/Latihan1(bagian2).png)
 
-### 2. LatihanKedua simulasi stok. Buat variabel stok awal bernilai 5. Gunakan while untuk mengurangi stok satu per satu sampai habis. Tampilkan sisa stok pada setiap pengulangan, lalu tampilkan pesan “Stok habis” setelah perulangan selesai.
+### 2. Latihan Kedua simulasi stok. Buat variabel stok awal bernilai 5. Gunakan while untuk mengurangi stok satu per satu sampai habis. Tampilkan sisa stok pada setiap pengulangan, lalu tampilkan pesan “Stok habis” setelah perulangan selesai.
 
 ![OutputLatihanKedua](PerulangandanPenggunaanMethod/screenshots/Latihan2.png)
 
-### 3. LatihanKetiga method kembalian. Buat method hitungKembalian(int uangBayar, int totalHarga) yang mengembalikan hasil pengurangan uang bayar dengan total harga. Gunakan method tersebut pada cabang pembayaran berhasil dalam program praktik.
+### 3. Latihan Ketiga method kembalian. Buat method hitungKembalian(int uangBayar, int totalHarga) yang mengembalikan hasil pengurangan uang bayar dengan total harga. Gunakan method tersebut pada cabang pembayaran berhasil dalam program praktik.
 
 ![OutputLatihanKetiga](PerulangandanPenggunaanMethod/screenshots/Latihan3.png)
 
-### 3. LatihanKeempat method daftar barang. Pindahkan perulangan penampil barang pada program praktik ke method tampilkanDaftarBarang(String namaBarang, int jumlahBeli) dengan tipe kembalian void. Panggil method tersebut setelah pembelian dinyatakan berhasil. Pastikan hasil program tetap sama.
+### 3. Latihan Keempat method daftar barang. Pindahkan perulangan penampil barang pada program praktik ke method tampilkanDaftarBarang(String namaBarang, int jumlahBeli) dengan tipe kembalian void. Panggil method tersebut setelah pembelian dinyatakan berhasil. Pastikan hasil program tetap sama.
 
 ![OutputLatihanKeempat](PerulangandanPenggunaanMethod/screenshots/Latihan4.png)
+
+## Letak File Coding : PerulangandanPenggunaanMethod/build/classes/perulangandanpenggunaanmethod/file coding latihan.
