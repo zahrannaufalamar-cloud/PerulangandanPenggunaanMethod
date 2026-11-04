@@ -13,7 +13,7 @@
 ### 1. Latihan Pertama nomor urut barang. Gunakan for untuk menampilkan “Barang ke-1” sampai “Barang ke-10”. Setelah berhasil, ubah program agar menampilkan nomor dari 10 turun ke 1.
 
 ![OutputLatihanPertama](PerulangandanPenggunaanMethod/screenshots/Latihan1.png)
-![OutputLatihanPertama](PerulangandanPenggunaanMethod/screenshots/Latihan1(bagian2).png)
+![OutputLatihanPertama](PerulangandanPenggunaanMethod/screenshots/Latihan1(Bagian2).png)
 
 ### 2. Latihan Kedua simulasi stok. Buat variabel stok awal bernilai 5. Gunakan while untuk mengurangi stok satu per satu sampai habis. Tampilkan sisa stok pada setiap pengulangan, lalu tampilkan pesan “Stok habis” setelah perulangan selesai.
 
