@@ -1,2 +1,2 @@
-# PerulangandanPenggunaanMethod
-Perulangan dan Penggunaan Method zahran naufal amar 
+# Perulangan dan Penggunaan Method
+ 
